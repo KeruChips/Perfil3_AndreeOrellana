@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "evaluacion movil",
+    "slug": "evaluacion-movil",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Master.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/Master.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#F8FAFC"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Master.jpg",
+        "backgroundColor": "#F8FAFC"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.keruchips.evaluacionmovil"
+    },
+    "web": {
+      "favicon": "./assets/Master.jpg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5e260bf7-5280-4433-84ca-7d342d7bc4c2"
+      }
+    }
+  }
+}
