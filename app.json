@@ -21,7 +21,7 @@
         "backgroundColor": "#F8FAFC"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.keruchips.evaluacionmovil"
+      "package": "com.keruchips.evaluacion-movil"
     },
     "web": {
       "favicon": "./assets/Master.jpg"
